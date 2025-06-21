@@ -1,0 +1,7 @@
+# Hilfsskripte nicht committen
+ghps.sh
+
+# Sicher ist sicher: keine temporären Dateien
+*.swp
+*.bak
+*.tmp
