@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Dices & Statistics</title>
-    <link>https://aleae-statisticae.github.io/aleae/</link>
-    <description>Minimalistisches Blog mit Markdown und Shell</description>
-    <lastBuildDate>Sa, 21 Jun 2025 00:00:00 GMT</lastBuildDate>
-
-    <item>
-      <title><![CDATA[Test – Dices & Statistics]]></title>
-      <link>https://aleae-statisticae.github.io/aleae/posts/2025-06-21-0127-test-.html</link>
-      <pubDate>Sa, 21 Jun 2025 00:00:00 GMT</pubDate>
-      <description><![CDATA[Beitrag vom 2025-06-21]]></description>
-    </item>
-  </channel>
-</rss>
+<rss version="2.0"><channel>
+<title>Dices and Statistics</title><link>https://aleae.github.io/alea_blog</link><description>RSS Feed</description>
+<item><title></title><link>posts/2025-06-21-0127-test-.html</link><guid>posts/2025-06-21-0127-test-.html</guid></item>
+</channel></rss>
